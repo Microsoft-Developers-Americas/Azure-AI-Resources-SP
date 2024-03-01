@@ -4,12 +4,17 @@ Creación de soluciones de inteligencia artificial innovadoras
 
 ## Contenido destacado
  ¡Aprenda através de estos programas y lleve sus conocimientos técnicos de IA al siguiente nivel!
-| Recurso | Descripción |
-| --- | --- | 
+| Recurso | Tipo | Descripción
+| --- | --- | --- |
 | [Azure AI](https://azure.microsoft.com/es-es/solutions/ai/) | Documentación | Impulse los resultados empresariales y mejore las experiencias de los clientes con soluciones de inteligencia artificial.
 | [Microsoft Azure AI Fundamentals: Introducción a la inteligencia artificial](https://learn.microsoft.com/es-es/training/paths/get-started-with-artificial-intelligence-on-azure/) | Documentación | La inteligencia artificial (IA) permite la creación de nuevas experiencias y soluciones increíbles, y Microsoft Azure proporciona servicios fáciles de usar que le ayudarán a empezar.
 | [GitHub CoPilot](https://resources.github.com/copilot-for-business/) | Site| Maximice la velocidad de los desarrolladores con IA
 | [Microsoft Learn](https://learn.microsoft.com/es-es/training/browse/?expanded=azure&products=ai-services) | Rutas de Aprendizaje| Aprende nuevas habilidades y descubre el poder de los productos de Microsoft con una guía paso a paso. Comienza tu viaje hoy explorando nuestros módulos y rutas de aprendizaje.
+| [Azure AI Fundamentals - AI-900](https://learn.microsoft.com/training/challenges?id=559243a1-f796-48e6-89b0-d00ae583b44b&WT.mc_id=cloudskillschallenge_559243a1-f796-48e6-89b0-d00ae583b44b) | Cloud Skills Challenge |Adquiere una base sólida en conceptos de aprendizaje automático e IA, como la visión artificial, el procesamiento del lenguaje natural y la IA conversacional. Esta ruta de aprendizaje está diseñada para participantes con o sin conocimientos técnicos previos. 
+| [Azure Fundamentals - AZ-900](https://learn.microsoft.com/training/challenges?id=193924ea-4ce9-4e91-8c29-2f06408c3763&WT.mc_id=cloudskillschallenge_193924ea-4ce9-4e91-8c29-2f06408c3763)) | Cloud Skills Challenge |Conozca los aspectos básicos de Azure, los componentes de arquitectura y los principales servicios y soluciones, además de las herramientas de administración, el cumplimiento normativo, la seguridad y la protección de los datos. Este contenido ayuda a prepararse para el examen AZ-900. 
+| [Azure Data Fundamentals - DP-900](https://learn.microsoft.com/training/challenges?id=3fcbbc04-7933-414d-9b18-55cf703ebbaa&WT.mc_id=cloudskillschallenge_3fcbbc04-7933-414d-9b18-55cf703ebbaa) | Cloud Skills Challenge |Adquiera las bases sobre conceptos fundamentales de bases de datos en entornos de nube y servicios de datos, incluidos datos relacionales, datos no relacionales, big data y análisis de datos. Este recorrido de aprendizaje está diseñado tanto para aquellos participantes que dispongan de conocimientos técnicos como para aquellos que no. En aproximadamente 7 horas, aprenderá a marcar las diferencias mediante el uso de almacenamiento en Azure para datos no relacionales y Azure Cosmos DB. Agilice sus conocimientos sobre almacenamiento de datos a gran escala, análisis en tiempo real y visualización de datos.
+
+
 
 
 ---
